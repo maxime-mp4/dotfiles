@@ -1,0 +1,44 @@
+* {
+    padding: 0.2em;
+    width: 20em;
+    color: #C5C8C6;
+}
+
+element-icon {
+    size: 1.5em;
+}
+
+window, mainbox, message, listview, element {
+    background-color: #121212;
+}
+
+#scrollbar {
+    handle-color: #FF0000;
+}
+
+element {
+    vertical-align: 0.5;
+    border-radius: 5px;
+}
+
+inputbar{
+    border-radius: 5px;
+    margin: 0.5em;
+}
+
+prompt, entry {
+    color: #000000;
+}
+
+element-icon, element-text {
+    background-color: #00000000;
+}
+
+element selected {
+    background-color: #242424;
+}
+
+scrollbar {
+    enabled: true;
+    background-color: #FFFFFF;
+}
